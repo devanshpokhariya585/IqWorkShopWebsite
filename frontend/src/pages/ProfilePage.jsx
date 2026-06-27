@@ -58,7 +58,7 @@ const ProfilePage = () => {
               <div className='flex flex-col items-center text-center border-b pb-8'>
                 <FaUserCircle className='text-[#00df9a]' size={78} />
                 <h1 className='text-3xl font-bold mt-4'>{user.name}</h1>
-                <p className='text-gray-500 font-medium mt-2'>DEVANSH account</p>
+                <p className='text-gray-500 font-medium mt-2'>Iquest account</p>
               </div>
 
               <div className='grid gap-4 mt-8 font-medium'>
