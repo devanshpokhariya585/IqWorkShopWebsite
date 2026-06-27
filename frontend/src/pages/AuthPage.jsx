@@ -78,7 +78,7 @@ const AuthPage = ({ mode }) => {
           <div className='mb-8'>
             <h2 className='text-3xl font-bold'>{isSignup ? 'Signup' : 'Login'}</h2>
             <p className='text-gray-500 font-medium mt-2'>
-              {isSignup ? 'Join DEVANSH analytics today.' : 'Access your DEVANSH dashboard.'}
+              {isSignup ? 'Join Iquest analytics today.' : 'Access your Iquest dashboard.'}
             </p>
           </div>
 
